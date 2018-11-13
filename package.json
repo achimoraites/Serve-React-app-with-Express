@@ -1,0 +1,23 @@
+{
+  "name": "Serve-React-app-with-Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyb3rN4u7/Serve-React-app-with-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyb3rN4u7/Serve-React-app-with-Express/issues"
+  },
+  "homepage": "https://github.com/Cyb3rN4u7/Serve-React-app-with-Express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
