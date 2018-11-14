@@ -4,7 +4,6 @@ A boilerplate to deploy react apps on heroku.
 
 ## How to get started
 
-run this command
 
 ```
 npm run dev-install
