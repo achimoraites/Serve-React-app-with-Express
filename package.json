@@ -18,8 +18,8 @@
     "url": "git+https://github.com/Cyb3rN4u7/Serve-React-app-with-Express.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Achilles Moraites",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Cyb3rN4u7/Serve-React-app-with-Express/issues"
   },
